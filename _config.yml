@@ -7,7 +7,7 @@
 
 # Site settings
 title: WRchinese 
-brief-intro: Teaching Chinese As A Second Foreign Languge
+brief-intro: Teaching Chinese As A Second Languge
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wrchinese.github.io" # the base hostname & protocol for your site
 
