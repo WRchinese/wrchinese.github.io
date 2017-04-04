@@ -5,18 +5,26 @@
     <description></description>
     <link>https://wrchinese.github.io/</link>
     <atom:link href="https://wrchinese.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Apr 2017 22:10:53 +0800</pubDate>
-    <lastBuildDate>Sat, 01 Apr 2017 22:10:53 +0800</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2017 21:10:11 +0900</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2017 21:10:11 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Thinking In Teaching</title>
-        <description>&lt;blockquote&gt;
-  Hello Everyone!
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#tips&quot; id=&quot;markdown-toc-tips&quot;&gt;Tips&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+  Hello Everyone! This is my github blog!&lt;br /&gt;
+  PPTS docments will be shared here.
 &lt;/blockquote&gt;
 
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;同学们大家好， 现在我们开始学习中国语！傻样儿&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 01 Apr 2017 01:40:18 +0800</pubDate>
+        <pubDate>Sat, 01 Apr 2017 02:40:18 +0900</pubDate>
         <link>https://wrchinese.github.io/2017/04/01/Hello/</link>
         <guid isPermaLink="true">https://wrchinese.github.io/2017/04/01/Hello/</guid>
         
