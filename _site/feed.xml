@@ -5,40 +5,42 @@
     <description></description>
     <link>https://wrchinese.github.io/</link>
     <atom:link href="https://wrchinese.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Apr 2017 21:51:46 +0900</pubDate>
-    <lastBuildDate>Tue, 04 Apr 2017 21:51:46 +0900</lastBuildDate>
+    <pubDate>Sun, 09 Apr 2017 22:12:09 +0900</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2017 22:12:09 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Thinking In Teaching</title>
+        <title>第一节：中国交通文化</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#tips&quot; id=&quot;markdown-toc-tips&quot;&gt;Tips&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;中国交通文化&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-  Hello Everyone! This is my github blog!&lt;br /&gt;
-  PPTS docments will be shared here.
+  Hello
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;中国交通文化&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;同学们大家好， 现在我们开始学习中国语！傻样儿 你更新点内容 ！学会没有？&lt;/li&gt;
-  &lt;li&gt;你写一些内容， 同步更新到国际互联网， 每个人都能看到， 太空站里也能！&lt;/li&gt;
-  &lt;li&gt;按下ctrl+F5 , 就能看到最新的博文了！有没有很神奇！kkkkkkkkk&lt;/li&gt;
-  &lt;li&gt;这里是教学用的ppt&lt;a href=&quot;https://raw.githubusercontent.com/WRchinese/wrchinese.github.io/master/PPTS/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A%E6%96%87%E5%8C%96(%E5%8C%97%E4%BA%AC).pptx&quot;&gt;交通知识&lt;/a&gt;&lt;br /&gt;
- hell&lt;/li&gt;
-  &lt;li&gt;是不是很方便?!  enenen想看看用户端是什么样到展示页面？你用手机访问下: https://wrchinese.github.io&lt;/li&gt;
+  &lt;li&gt;
+    这里分享一个关于中国交通文化的教学PPT，内容和图片或许需要你的二次编辑。请慢用。&lt;br /&gt;
+（特别提示：有几个章节仅选用了北京地区的情况）
+  &lt;/li&gt;
+  &lt;li&gt;
+    PPT（点蓝字下载）&lt;a href=&quot;https://raw.githubusercontent.com/WRchinese/wrchinese.github.io/master/PPTS/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A%E6%96%87%E5%8C%96(%E5%8C%97%E4%BA%AC).pptx&quot;&gt;中国交通文化&lt;/a&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 01 Apr 2017 02:40:18 +0900</pubDate>
         <link>https://wrchinese.github.io/2017/04/01/Hello/</link>
         <guid isPermaLink="true">https://wrchinese.github.io/2017/04/01/Hello/</guid>
         
-        <category>Teaching</category>
+        <category>文化</category>
         
-        <category>Thinking</category>
+        <category>PPT</category>
+        
+        <category>汉语教学</category>
         
         
-        <category>Teaching</category>
+        <category>文化教学</category>
         
       </item>
     
